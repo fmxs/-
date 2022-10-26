@@ -1,34 +1,36 @@
 # 雅思书籍与资料
-杨帅高分班链接：https://pan.baidu.com/s/1V1igYnaE3TpE-sjzWK9Tew密码：rgw5
-杜仕明写作高分班链接：https://pan.baidu.com/s/1tUpDjPMTE6gNN8ZRuMcBhA密码：02lc
-王希伟阅读技巧班链接：https://pan.baidu.com/s/14CaUlPjCJkaADnjXjgpLBw密码：viye
+杨帅高分班链接：https://pan.baidu.com/s/1V1igYnaE3TpE-sjzWK9Tew 密码：rgw5
+
+杜仕明写作高分班链接：https://pan.baidu.com/s/1tUpDjPMTE6gNN8ZRuMcBhA 密码：02lc
+
+王希伟阅读技巧班链接：https://pan.baidu.com/s/14CaUlPjCJkaADnjXjgpLBw 密码：viye
 
 
 雅思词汇词根+联想记忆法（新东方绿皮单词书）
-链接：https://pan.baidu.com/s/1VybesPapxqHPy9AsSyhSlg密码：9a72
+链接：https://pan.baidu.com/s/1VybesPapxqHPy9AsSyhSlg 密码：9a72
 
 九分达人听力1-4（pdf+mp3）
-链接：https://pan.baidu.com/s/1EeVJA4ktTfQJCLWO8RxHsg密码：wtf9
+链接：https://pan.baidu.com/s/1EeVJA4ktTfQJCLWO8RxHsg 密码：wtf9
 
 剑桥真题13电子版+mp3
 
-链接：https://pan.baidu.com/s/103ho5kFlaEOGMiOzxthOIA密码：puza
+链接：https://pan.baidu.com/s/103ho5kFlaEOGMiOzxthOIA 密码：puza
 
 剑桥真题13解析电子版
-链接：https://pan.baidu.com/s/1S7PEgEOqYp85Arn7nguh9g密码：37o9
+链接：https://pan.baidu.com/s/1S7PEgEOqYp85Arn7nguh9g 密码：37o9
 
 
 顾家北手把手词伙2.0版本（18年最新）
 https://pan.baidu.com/s/1T0Sd9k6fwMsT3bfcleMBew
 
 顾家北手把手教你24小时搞懂语法（最新书籍）
-链接：https://pan.baidu.com/s/1gnBUsmVUVjHgfcdDxTrpDg密码：vz9g
+链接：https://pan.baidu.com/s/1gnBUsmVUVjHgfcdDxTrpDg 密码：vz9g
 
 刘薇雅思口语全薇机经库
 https://pan.baidu.com/s/1x8LJwlpuOd9OqQ_hgGczoQ
 
 张涛听力红宝书录音版(18年最新版)
-链接：https://pan.baidu.com/s/1o1b0bBxZXBzgeafz6mjPLw密码：1642
+链接：https://pan.baidu.com/s/1o1b0bBxZXBzgeafz6mjPLw 密码：1642
 
 雅思阅读真经总纲
 链接：https://pan.baidu.com/s/1QdHb8pIsX_QUaFqHzsdSrw 提取码：CG01
