@@ -1,10 +1,21 @@
 # 大作文_议论文
+## 声明
+这个文件夹保存了杜世明讲解大作文的pdf资料。以下是本人阅读pdf和观看部分视频后写的笔记。
+其中，第0部分介绍了最重要的段落展开逻辑，它在每种议论文里都可以使用，所以是必须掌握的内容。
 ## 0. 段落展开逻辑
 段落展开逻辑在所有议论文中都是通用的！！
-Topic sentence + 解释原因/降层解释/承上启下 +Fox example + 反向假设/总结重复TS。
-1. 解释原因，解释TS为什么会出现。This is because....
-2. 降层解释，细化TS的抽象概念。More specifically, .....
-3. 承上启下，改写TS，引出结果（之后对结果举例）
+段落展开逻辑在所有议论文中都是通用的！！
+段落展开逻辑在所有议论文中都是通用的！！公式如下：
+```
+【观点句】Topic sentence + 【展开】解释原因/降层解释/承上启下 + 【举例】Fox example + （【反向假设】） + 【重复观点句】。
+```
+以下将观点句简称为TS（Topic sentence）。
+第1种展开方法. 解释原因，解释TS为什么会出现。一般使用句式：This is because....
+第2种展开方法. 降层解释，细化TS的抽象概念。一般使用句式：More specifically, .....
+第3种展开方法. 承上启下，改写TS，引出结果（之后对结果举例）
+以下图是三种方法的举例：
+![img_v2_9749e08c-7200-4297-8b35-5a73a1c988eg](https://user-images.githubusercontent.com/65701532/198945033-44fdf102-8cb0-489a-b848-38bc9dd28f54.jpg)
+
 
 ## 1.双边讨论Discuss both views and give your opinion
 【先给出A观点和B观点的合理性，最后给出自己的个人观点。】（难点，绝对不能一边倒）
@@ -25,6 +36,7 @@ Topic sentence + 解释原因/降层解释/承上启下 +Fox example + 反向假
 On the one hand, from the perspective of some people, there may be ....
 第三段（80-100字）：段落展开强观点，（80-100字）。
 第四段：一般两句话，先重复自己偏向的观点，然后再对弱观点提出建议/反驳。
+
 ## 2.报告类【原因分析+解决方案/有何影响/随机】Two questions 
 符合事实的原因分析（两边都说）
 比如博物馆为什么是游客参观，本地人不感兴趣呢？
@@ -44,11 +56,16 @@ On the one hand, from the perspective of some people, there may be ....
 第二段：第一个原因分析，第二个原因分析
 第三段：因为...很严重/ 因为...什么事情很重要 + so measures should be taken to..... + 解决方案1 + 结果 + 解决方案2 + 结果。
 第四段：总结，重复原因或者解决方案。使用“因为 所以”或者“虽然 但是”的句式。
+
 ## 3.利弊分析Do you think this is a positive or a negative development? 
 第一段：引出背景 + 改写题目 + 给出观点
+
 第二段：证明观点的例子1
+
 第三段：证明观点的例子2
+
 第四段：重复观点
+
 ## 4.是否同意Do you agree or disagree? 
 完全agree的情况较少，而完全disagree的情况较多，针对题目里给出的各个点进行反驳。
 agree 或者 disagree的模板
@@ -57,22 +74,30 @@ agree 或者 disagree的模板
 第三段：证明自己观点的例子2
 第四段：In conclusion + 重复观点
 
-虽然xxx，但是xxx的模板
+
+【虽然xxx，但是xxx的模板】
+
 第一段：改写，I believe that 某观点
+
 第二段：承认A观点的合理性，It is true / I accept that / I admit that ...
+
 第三段：做补充或选择，However / Nevertheless / I would argue that....
+
 第四段：重复观点
 
-取决于xxx的模板
+
+【取决于xxx的模板】
+
 第一段：改写+ it depends on 某事的相反面
+
 第二段：承认A的合理
+
 第三段：承认B的合理
+
 第四段：重复观点
 
 
-一样重要的模板
-
-介绍段
+## 介绍段模板
 ● I completely disagree with this opinion.  
 ●  Although I believe that higher fuel prices can reduce the number of cars on the street, I do  not agree that a simple rise in the price is enough .
 ● My view is that 
