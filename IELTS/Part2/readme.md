@@ -31,7 +31,8 @@
 虽然A观点有一定的合理性，比如...但是我选择B观点，这是因为...
 ● 比如，虽然国内读研压力较小，但国外读研对个人发展更好。
 ● 比如，从短期来看早点工作能够使人经济独立，但从长远来看拥有高学历对事业发展更有帮助。
-● 比如，一些人可能因为增加运动场所而变得更健康，但是大部分人需要别的措施来改善健康。（一些人可能因为xxx措施而变的xxx，但大部分人需要别的xxx来xxx。）
+● 比如，一些人可能因为增加运动场所而变得更健康，但是大部分人需要别的措施来改善健康。
+（一些人可能因为xxx措施而变的xxx，但大部分人需要别的xxx来xxx。）
 ```
 2. 共存逻辑（20%）。
 ```
@@ -61,8 +62,11 @@ On the one hand, from the perspective of some people, there may be ....
 抓住本地人和游客两个关键词。
 原因必须是客观的，而不是主观的自我认为，原因分析也必须能够扩展。
 ×主观的原因：门票贵、博物馆距离远。
-√客观的原因1：本地人很了解当地博物馆，在他们小时候或者放假时，父母至少带他们去过几次。（客观的，普遍认同的，而且可扩展）本地人小时候就能去，而游客也许一生只会来这一次。
-√客观的原因2：本地人觉得去当地博物馆很方便，假期时他们更有可能选择去其他城市或者国家。
+√客观的原因1：
+本地人很了解当地博物馆，在他们小时候或者放假时，父母至少带他们去过几次。
+（客观的，普遍认同的，而且可扩展）本地人小时候就能去，而游客也许一生只会来这一次。
+√客观的原因2：
+本地人觉得去当地博物馆很方便，假期时他们更有可能选择去其他城市或者国家。
 真实的解决方案（2个）
 博物馆应该举办不同的互动活动，让人们每次来都能够获得不同的经历。
 不同地方的博物馆可以交换展品，让人们每次来都能看到一些新展品。
@@ -73,7 +77,8 @@ On the one hand, from the perspective of some people, there may be ....
 ```
 第一段：直接改写原题（不需要背景引出） + 承上启下（我认为...和...是主要原因/要为此负责）
 第二段：第一个原因分析，第二个原因分析
-第三段：因为...很严重/ 因为...什么事情很重要 + so measures should be taken to..... + 解决方案1 + 结果 + 解决方案2 + 结果。
+第三段：因为...很严重/ 因为...什么事情很重要 + so measures should be taken to..... 
++ 解决方案1 + 结果 + 解决方案2 + 结果。
 第四段：总结，重复原因或者解决方案。使用“因为 所以”或者“虽然 但是”的句式。
 ```
 ## 3.利弊分析Do you think this is a positive or a negative development? 
@@ -115,9 +120,12 @@ On the one hand, from the perspective of some people, there may be ....
 ## 介绍段模板
 ```
 ● I completely disagree with this opinion.  
-●  Although I believe that higher fuel prices can reduce the number of cars on the street, I do  not agree that a simple rise in the price is enough .
+● Although I believe that higher fuel prices can reduce the number of cars on the street, 
+I do  not agree that a simple rise in the price is enough.
 ● My view is that 
 ● In my opinion, whether media violence should be banned depends  on the age of the viewer or the player 
-● While having more trees helps with improvements of environmental conditions, I believe that the government ought to prioritize satisfying citizens’ needs of better housing conditions.  
-●  The advantages of convenience and high efficiency brought by digital communication are obvious, but I do not think that everyone has access to these benefits.  
+● While having more trees helps with improvements of environmental conditions, 
+I believe that the government ought to prioritize satisfying citizens’ needs of better housing conditions.  
+● The advantages of convenience and high efficiency brought by digital communication are obvious, 
+but I do not think that everyone has access to these benefits.  
 ```
