@@ -113,9 +113,11 @@ On the one hand, from the perspective of some people, there may be ....
 ```
 
 ## 介绍段模板
+```
 ● I completely disagree with this opinion.  
 ●  Although I believe that higher fuel prices can reduce the number of cars on the street, I do  not agree that a simple rise in the price is enough .
 ● My view is that 
 ● In my opinion, whether media violence should be banned depends  on the age of the viewer or the player 
 ● While having more trees helps with improvements of environmental conditions, I believe that the government ought to prioritize satisfying citizens’ needs of better housing conditions.  
 ●  The advantages of convenience and high efficiency brought by digital communication are obvious, but I do not think that everyone has access to these benefits.  
+```
