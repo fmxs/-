@@ -8,6 +8,6 @@ Now let's begin:
 
 Every week from Monday to Friday, you should spend an hour praticing English by following these steps below. You do not have to have too much pressure on yourself, in contrast, you need to see these things as a part of your daily life.
 
-[Monday List](https://github.com/fmxs/LearningEnglish/tree/main/Learn%20English%20with%20Bob%20the%20Canadian/Monday#readme)
+[Monday: Listening 30-40min](https://github.com/fmxs/LearningEnglish/tree/main/Learn%20English%20with%20Bob%20the%20Canadian/Monday#readme)
 
 
