@@ -1,5 +1,3 @@
-Every day on Monday to Friday, you should spend an hour praticing English by following these steps below. You do not have to have too much pressure on yourself, in contrast, you need to see these things as a part of your daily life.
-
 # Monday English Learning List
 ## Reading 30-40 min
 On the Monday, you should spend 30 to 40 minutes on reading. 
