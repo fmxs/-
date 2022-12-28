@@ -39,8 +39,12 @@ You should be writing new vocabulary words when you meet them in your book, the 
 ## Other Activities 20-30min 
 
 Besides reading, you also need to do three things, which help you understand English better:
+
 ● Read part of your book out loud.
+
 ● Write out some passages.
+
 ● Listen to the audio of your book.
+
 
 
