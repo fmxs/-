@@ -17,12 +17,19 @@ You should pick an English book to read on Monday. It is also ideal to choosing 
 
 ### Read the news
 You need to read some news. There are some materials for you to choose. 
+
 If you are preparing IELTS, then you can choose these materials below, as they are source of IELTS exam:
+
 ● BBC six minutes English 
+
 ● The economist 
+
 ● National Geographic Explorer 
+
 ● Scientific American
+
 ● Encyclopaedia Britannica
+
 ● The Guardian
 
 ### Read simple.wikipedia.com
