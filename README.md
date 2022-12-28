@@ -11,6 +11,7 @@ Every day on Monday to Friday, you should spend an hour praticing English by fol
 # Monday English Learning List
 ## Reading 30-40 min
 On the Monday, you should spend 30 to 40 minutes on reading. 
+![image](https://user-images.githubusercontent.com/65701532/209764876-27426b38-493b-45a9-bacb-0fbeaafbdb1f.png)
 
 ### Read your book
 You should pick an English book to read on Monday. It is also ideal to choosing a book with two languages, one language is English and the other is your mother language.
@@ -46,6 +47,7 @@ You should be writing new vocabulary words when you meet them in your book, the 
 ## Other Activities 20-30min 
 
 Besides reading, you also need to do three things, which help you understand English better:
+![image](https://user-images.githubusercontent.com/65701532/209764908-140fdec8-cce5-40ef-bd30-49472201c7da.png)
 
 ● Read part of your book out loud.
 
