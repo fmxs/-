@@ -2,7 +2,7 @@ Here we will show you serveral ways to learn English.
 
 Firstly, we will introduce you a systemic way from Bob the Canadian. 
 
-You can also watch his video by clicking [this link](https://www.youtube.com/watch?v=5-T6Xqlh6BU&t=241s)
+You can also watch his video by clicking [this link](https://www.youtube.com/watch?v=5-T6Xqlh6BU&t=241s).
 
 Now let's begin:
 
