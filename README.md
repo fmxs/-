@@ -1,6 +1,9 @@
-Here we will show you serveral ways to learn English. 
+Bob will show you serveral ways to learn English. 
 
-Now let's begin:
+See full pages in my Notion Link:
+
+https://www.notion.so/Learn-English-with-Bob-the-Canadian-45cf449f75274f47b1bd66be24f5a600
+
 
 # Learn English with Bob the Canadian
 
